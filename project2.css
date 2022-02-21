@@ -1,0 +1,50 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#CCD5AE;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:#EDD8CA;
+}
+
+.project2 {
+  min-height: 70vh;
+  background-color:#FEFAE0;
+  text-align: center;
+  padding-top: 150px;
+}
+.project2plus{
+  background-color:#FAEDCD;
+  text-align: center;
+   margin: 0;
+  padding-block: 0;
+  overflow: hidden;
+  
+  }
+
+  .project2plusplus {
+    min-height: 50vh;
+    background-color:#D4A373;
+    text-align: center;
+    padding-top: 150px;
+  }
+
+
+ 
+  
